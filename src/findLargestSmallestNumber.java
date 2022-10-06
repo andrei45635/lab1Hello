@@ -1,9 +1,8 @@
-import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class findLargestSmallestNumber {
     public static void main(String[] args){
-        int a = 0,x = 0;
+        int a, x;
 
         Scanner in = new Scanner(System.in);
 
