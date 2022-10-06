@@ -7,15 +7,15 @@ class Employee{
     }
 
     public void setSalary(int salary) {
-        this.Salary = salary;
+        Salary = salary;
     }
 
     public void setAge(int age) {
-        this.Age = age;
+        Age = age;
     }
 
     public void setPosition(String position) {
-        this.Position = position;
+        Position = position;
     }
 }
 
